@@ -1,6 +1,6 @@
 const  XBOT = 'AMPIBI'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/affis_saputro123'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6282334297175'; // Nomor whatsapplu cok
+const instagram = 'https://instagram.com/Pernanda_antonio'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+62856640093562'; // Nomor whatsapplu cok
 const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
 const groupwa = 'comming soon'; // OFFICIAL GRUP LU 1
 const youtube = 'https://youtube.com/channel/UCYKxsg7iF9a9IZyXQRNsvqw'; 
